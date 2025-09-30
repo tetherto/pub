@@ -1,0 +1,66 @@
+# Algorand
+XIU7HGGAJ3QOTATPDSIIHPFVKMICXKHMOR2FJKHTVLII4FAOA3CYZQDLG4
+
+# Aptos
+0xd5b71ee4d1bad5cb7f14c880ee55633c7befcb7384cf070919ea5c481019a4e9
+0x76ff3deac6723625606b11dfca7817fe1266fffcfc1fb26f5ccc9411f3def6fd
+
+# Avalanche
+0x5754284f345afc66a98fbb0a0afe71e0f007b949
+
+# Celo
+0xBA2a995Bd4ab9e605454cCEf88169352cd5F75A6
+0xB4Be45FdbED00E9C82A005FA930C3529902E7d2e
+0x5754284f345afc66a98fbb0a0afe71e0f007b949
+      
+# Cosmos
+0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828
+0x5754284f345afc66a98fbb0a0afe71e0f007b949
+      
+# EOS
+tetherresrvs
+tethertether
+      
+# Ethereum
+0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828
+0xB4Be45FdbED00E9C82A005FA930C3529902E7d2e
+0x5754284f345afc66a98fbb0a0afe71e0f007b949
+
+# Kaia
+0xba2a995bd4ab9e605454ccef88169352cd5f75a6
+0xB4Be45FdbED00E9C82A005FA930C3529902E7d2e
+0x5754284f345afc66a98fbb0a0afe71e0f007b949
+
+# Near
+tether-treasury.near
+tether.multisafe.near
+
+# Omni
+1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz
+32TLn1WLcu8LtfvweLzYUYU6ubc2YV9eZs
+
+# SLP
+bitcoincash:pp2v7cdqgxvnry2tr73ma7qn8r37t7u22s0aqgnf44
+
+# Solana
+99pfYkuFEUPvUzVSGsMc2VN47FaFSTrKBMXGnxg13tDt
+8hnVkd24Gp7s1QYVPBQSayS4uLokKEj1Uq6NFjk6PibK
+
+# Kusama Asset Hub (formerly Statemine)
+Gta2igNjwAqZHdLX8en83Q49c3TSzDaNYqye4xM4CBwA2yL
+JEBKnPdJV1jviidwvZZBFk9ZnDC3eEqBzHriRvffWdHmwZo
+      
+# Polkadot Asset Hub (formerly Statemint)
+15cZ2zHq5b2fVh8iDqNJKyvHCtwVKWYGqNLQMakHh6e4wicX
+15uPcYeUE2XaMiMJuR6W7QGW2LsLdKXX7F3PxKG8gcizPh3X
+
+# Tezos
+tz1PcFh6tTzBXrV21AEpJhN1k8rcLY5t7t1z
+KT1HY2hysKoitDgKEsRySbEjzBx9KgraAocr
+
+# Ton
+UQAj-peZGPH-cC25EAv4Q-h8cBXszTmkch6ba6wXC8BM40qt
+EQBkQP48aUEDg5Y5RRc8SxFHm_C5tNcJDlh3e9pYHC-ZmG2M
+
+# Tron
+TKHuVq1oKVruCGLvqVexFs6dawKv6fQgFs
