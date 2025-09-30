@@ -1,6 +1,3 @@
-# Algorand
-XIU7HGGAJ3QOTATPDSIIHPFVKMICXKHMOR2FJKHTVLII4FAOA3CYZQDLG4
-
 # Aptos
 0xd5b71ee4d1bad5cb7f14c880ee55633c7befcb7384cf070919ea5c481019a4e9
 0x76ff3deac6723625606b11dfca7817fe1266fffcfc1fb26f5ccc9411f3def6fd
@@ -17,10 +14,6 @@ XIU7HGGAJ3QOTATPDSIIHPFVKMICXKHMOR2FJKHTVLII4FAOA3CYZQDLG4
 0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828
 0x5754284f345afc66a98fbb0a0afe71e0f007b949
       
-# EOS
-tetherresrvs
-tethertether
-      
 # Ethereum
 0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828
 0xB4Be45FdbED00E9C82A005FA930C3529902E7d2e
@@ -35,21 +28,10 @@ tethertether
 tether-treasury.near
 tether.multisafe.near
 
-# Omni
-1NTMakcgVwQpMdGxRQnFKyb3G1FAJysSfz
-32TLn1WLcu8LtfvweLzYUYU6ubc2YV9eZs
-
-# SLP
-bitcoincash:pp2v7cdqgxvnry2tr73ma7qn8r37t7u22s0aqgnf44
-
 # Solana
 99pfYkuFEUPvUzVSGsMc2VN47FaFSTrKBMXGnxg13tDt
 8hnVkd24Gp7s1QYVPBQSayS4uLokKEj1Uq6NFjk6PibK
 
-# Kusama Asset Hub (formerly Statemine)
-Gta2igNjwAqZHdLX8en83Q49c3TSzDaNYqye4xM4CBwA2yL
-JEBKnPdJV1jviidwvZZBFk9ZnDC3eEqBzHriRvffWdHmwZo
-      
 # Polkadot Asset Hub (formerly Statemint)
 15cZ2zHq5b2fVh8iDqNJKyvHCtwVKWYGqNLQMakHh6e4wicX
 15uPcYeUE2XaMiMJuR6W7QGW2LsLdKXX7F3PxKG8gcizPh3X
